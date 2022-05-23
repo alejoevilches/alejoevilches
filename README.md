@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alejoevilches
+- 👋 Hi, I’m Alejo Vilches
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning CSS/GIT
 - 💞️ I’m looking to collaborate on proyects with social commitment
