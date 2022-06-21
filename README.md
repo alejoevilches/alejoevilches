@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alejo Vilches
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning CSS/GIT
+- 🌱 I’m currently learning JavaScript
+- 🖥 I usually work with HTML, CSS, GIT, SCSS, Bootstrap.
 - 💞️ I’m looking to collaborate on proyects with social commitment
 - 📫 How to reach me: You can follow me on Linkedin / alejovich29 in Discord / alejoevilches@gmail.com
 
