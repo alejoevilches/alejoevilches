@@ -1,5 +1,3 @@
-# Hola!
-
 ## About Me
 
 👋 Hi, I'm Alejo Vilches, a passionate web developer with a focus on creating engaging and user-friendly experiences. I enjoy the process of turning ideas into functional websites using various web technologies.
