@@ -1,18 +1,22 @@
-## About Me
+# Alejo Vilches - Web Developer 👨‍💻
 
-👋 Hi, I'm Alejo Vilches, a passionate web developer with a focus on creating engaging and user-friendly experiences. I enjoy the process of turning ideas into functional websites using various web technologies.
+Welcome to my GitHub profile! I'm Alejo Vilches, a dedicated web developer passionate about crafting engaging and user-friendly digital experiences. Here, you'll find a glimpse into my skills, interests, and ongoing projects. Feel free to connect and explore the world of web development with me!
 
-## Interests
+## About Me 👋
 
-👀 My primary interest lies in web development, where I can leverage my skills to build dynamic and interactive websites. I have a strong curiosity for exploring new technologies and staying up-to-date with the latest industry trends.
+Hi, I'm Alejo Vilches, a passionate web developer with a focus on creating engaging and user-friendly experiences. I enjoy the process of turning ideas into functional websites using various web technologies.
 
-## Current Focus
+## Interests 👀
 
-🌱 Currently, I am dedicated to expanding my knowledge and proficiency in JavaScript and its various frameworks. I am particularly focused on mastering React, a popular JavaScript library for building user interfaces. React's component-based architecture and efficient rendering make it a powerful tool for creating scalable and interactive web applications.
+My primary interest lies in web development, where I can leverage my skills to build dynamic and interactive websites. I have a strong curiosity for exploring new technologies and staying up-to-date with the latest industry trends.
 
-## Skills
+## Current Focus 🌱
 
-🖥 I am proficient in the following technologies:
+Currently, I am dedicated to expanding my knowledge and proficiency in JavaScript and its various frameworks. I am particularly focused on mastering React, a popular JavaScript library for building user interfaces. React's component-based architecture and efficient rendering make it a powerful tool for creating scalable and interactive web applications.
+
+## Skills 🖥️
+
+I am proficient in the following technologies:
 
 - HTML
 - CSS
@@ -22,13 +26,13 @@
 - SASS
 - Bootstrap
 
-## Collaboration
+## Collaboration 💞
 
-💞 I am available for collaboration on projects that align with my interests and skills. If you have an exciting opportunity, feel free to reach out to me. You can connect with me on LinkedIn as Alejo Ezequiel Vilches (or clicking [this link](https://www.linkedin.com/in/alejo-ezequiel-vilches-189b3277/), find me on Discord as [alejov29], or email me at [alejoevilches@gmail.com].
+I am available for collaboration on projects that align with my interests and skills. If you have an exciting opportunity, feel free to reach out to me. You can connect with me on LinkedIn as Alejo Ezequiel Vilches ([LinkedIn Profile](https://www.linkedin.com/in/alejo-ezequiel-vilches-189b3277/)), find me on Discord as alejov29, or email me at alejoevilches@gmail.com.
 
-## Let's Connect!
+## Let's Connect! 📫
 
-📫 I invite you to connect with me and explore my projects further. Let's collaborate and create amazing web experiences together!
+I invite you to connect with me and explore my projects further. Let's collaborate and create amazing web experiences together!
 
 Thank you for visiting my profile, and I look forward to connecting with you soon!
 
