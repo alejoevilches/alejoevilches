@@ -1,38 +1,82 @@
-# Alejo Vilches - Web Developer 👨‍💻
+# Alejo Vilches — Web3 & Full-Stack Developer 👨‍💻⚡
 
-Welcome to my GitHub profile! I'm Alejo Vilches, a dedicated web developer passionate about crafting engaging and user-friendly digital experiences. Here, you'll find a glimpse into my skills, interests, and ongoing projects. Feel free to connect and explore the world of web development with me!
+Hi! I'm Alejo Vilches, a Web3-oriented developer with a strong full-stack background, currently focused on building, testing, and shipping smart-contract-driven applications.
 
-## About Me 👋
+I enjoy working close to the protocol level, understanding how things work under the hood, and designing systems that are simple, secure, and composable.
 
-Hi, I'm Alejo Vilches, a passionate web developer with a focus on creating engaging and user-friendly experiences. I enjoy the process of turning ideas into functional websites using various web technologies.
+---
 
-## Interests 👀
+## 🧠 About Me
 
-My primary interest lies in web development, where I can leverage my skills to build dynamic and interactive websites. I have a strong curiosity for exploring new technologies and staying up-to-date with the latest industry trends.
+- Web developer with solid experience in modern frontend & backend stacks
+- Actively transitioning into **Web3 / Blockchain development**
+- Strong focus on **Solidity, smart contracts, testing, and on-chain architecture**
+- Builder mindset: I learn by shipping and iterating on real projects
 
-## Current Focus 🌱
+Currently deepening my knowledge around EVM fundamentals, security patterns, and decentralized application design.
 
-Currently, I am dedicated to expanding my knowledge and proficiency in JavaScript and its various frameworks. I am particularly focused on mastering React, a popular JavaScript library for building user interfaces. React's component-based architecture and efficient rendering make it a powerful tool for creating scalable and interactive web applications.
+---
 
-## Skills 🖥️
+## 🔗 Web3 Focus
 
-I am proficient in the following technologies:
+I'm currently working and learning in the following areas:
 
-- HTML
-- CSS
-- JavaScript
-- ReactJS
-- GIT
-- SASS
-- Bootstrap
+- Smart Contracts & EVM fundamentals
+- Solidity (best practices, errors, modifiers, gas awareness)
+- Contract testing with **Foundry**
+- Chainlink (VRF, automation, oracles)
+- L2s & Bitcoin-related ecosystems (Rootstock, emerging stacks)
+- On-chain randomness, ownership models, and factory patterns
 
-## Collaboration 💞
+---
 
-I am available for collaboration on projects that align with my interests and skills. If you have an exciting opportunity, feel free to reach out to me. You can connect with me on LinkedIn as Alejo Ezequiel Vilches ([LinkedIn Profile](https://www.linkedin.com/in/alejo-ezequiel-vilches-189b3277/)), find me on Discord as alejov29, or email me at alejoevilches@gmail.com.
+## 🛠️ Tech Stack
 
-## Let's Connect! 📫
+### Web3
+- Solidity
+- Foundry
+- EVM fundamentals
+- Chainlink
+- Smart contract testing
 
-I invite you to connect with me and explore my projects further. Let's collaborate and create amazing web experiences together!
+### Frontend
+- JavaScript / TypeScript
+- React
+- Next.js
+- TailwindCSS
 
-Thank you for visiting my profile, and I look forward to connecting with you soon!
+### Backend & Tools
+- Node.js
+- Git & GitHub
+- Linux / macOS
+- REST APIs
 
+---
+
+## 🚧 What I'm Building
+
+This GitHub includes:
+- Smart contract projects & experiments
+- End-to-end dApps (contracts + frontend)
+
+---
+
+## 🤝 Open to Collaborate
+
+I'm open to:
+- Web3 junior / trainee roles
+- Contributor roles on Web3 projects
+- Hackathons & early-stage startups
+- Learning-driven collaborations with other builders
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn**: https://www.linkedin.com/in/alejo-ezequiel-vilches/
+- **Discord**: alej0v29
+- **Email**: alejoevilches@gmail.com
+
+---
+
+Always building, always learning 🚀
