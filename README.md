@@ -1,80 +1,47 @@
-# Alejo Vilches — Web3 & Full-Stack Developer 👨‍💻⚡
+# Alejo Vilches — Fullstack Developer 👨‍💻
 
-Hi! I'm Alejo Vilches, a Web3-oriented developer with a strong full-stack background, currently focused on building, testing, and shipping smart-contract-driven applications.
-
-I enjoy working close to the protocol level, understanding how things work under the hood, and designing systems that are simple, secure, and composable.
+Hi! I'm Alejo, a fullstack developer based in Buenos Aires. I build web products with React, Next.js and Node.js, and I've shipped MVPs and production apps for startups in LATAM and the US.
 
 ---
 
 ## 🧠 About Me
 
-- Web developer with solid experience in modern frontend & backend stacks
-- Actively transitioning into **Web3 / Blockchain development**
-- Strong focus on **Solidity, smart contracts, testing, and on-chain architecture**
-- Builder mindset: I learn by shipping and iterating on real projects
-
-Currently deepening my knowledge around EVM fundamentals, security patterns, and decentralized application design.
-
----
-
-## 🔗 Web3 Focus
-
-I'm currently working and learning in the following areas:
-
-- Smart Contracts & EVM fundamentals
-- Solidity (best practices, errors, modifiers, gas awareness)
-- Contract testing with **Foundry**
-- Chainlink (VRF, automation, oracles)
-- L2s & Bitcoin-related ecosystems (Rootstock, emerging stacks)
-- On-chain randomness, ownership models, and factory patterns
+- ~3 years of professional experience across frontend, backend and mobile
+- Comfortable owning features end to end, from UI to REST APIs and database
+- I work daily with AI tools (Claude Code, agentic workflows, spec-driven development)
+- English C2
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Web3
-- Solidity
-- Foundry
-- EVM fundamentals
-- Chainlink
-- Smart contract testing
-
-### Frontend
-- JavaScript / TypeScript
-- React
-- Next.js
-- TailwindCSS
-
-### Backend & Tools
-- Node.js
-- Git & GitHub
-- Linux / macOS
-- REST APIs
+**Frontend:** JavaScript, TypeScript, React, Next.js, TailwindCSS, Zustand
+**Backend:** Node.js, NestJS, REST APIs
+**Databases:** PostgreSQL, MySQL, Supabase
+**Mobile:** Swift, iOS
+**Testing:** Jest, React Testing Library
+**Tools:** Git & GitHub, Linux / macOS, Jira, Agile
+**AI:** Claude Code, agentic harnesses, spec-driven development
 
 ---
 
-## 🚧 What I'm Building
+## 🔗 Also Exploring: Web3
 
-This GitHub includes:
-- Smart contract projects & experiments
-- End-to-end dApps (contracts + frontend)
+Outside of work I explore smart contract development: Solidity, Foundry testing, Chainlink (VRF, automation) and L2s. Some of those experiments live in this GitHub.
 
 ---
 
-## 🤝 Open to Collaborate
+## 🚧 What You'll Find Here
 
-I'm open to:
-- Web3 junior / trainee roles
-- Contributor roles on Web3 projects
-- Hackathons & early-stage startups
-- Learning-driven collaborations with other builders
+- Full-stack projects and experiments
+- A few smart contract projects and dApps
 
 ---
 
 ## 📫 Connect With Me
 
+- **Portfolio**: https://www.alejovilches.com.ar
 - **LinkedIn**: https://www.linkedin.com/in/alejo-ezequiel-vilches/
-- **Discord**: alej0v29
 - **Email**: alejoevilches@gmail.com
 
 ---
