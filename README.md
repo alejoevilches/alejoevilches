@@ -6,7 +6,7 @@ Hi! I'm Alejo, a fullstack developer based in Buenos Aires. I build web products
 
 ## 🧠 About Me
 
-- ~3 years of professional experience across frontend, backend and mobile
+- ~4 years of professional experience across frontend, backend and mobile
 - Comfortable owning features end to end, from UI to REST APIs and database
 - I work daily with AI tools (Claude Code, agentic workflows, spec-driven development)
 - English C2
